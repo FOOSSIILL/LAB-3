@@ -1,0 +1,23 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FOOSSIILL/LAB-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FOOSSIILL/LAB-3/issues"
+  },
+  "homepage": "https://github.com/FOOSSIILL/LAB-3#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
