@@ -1,7 +1,7 @@
 class CustomMessage extends HTMLElement {
 
     static get observedAttributes() {
-        return ["message"];
+        return ["message","img"];
     }
 
     constructor() {
@@ -22,6 +22,7 @@ class CustomMessage extends HTMLElement {
         this.shadowRoot.innerHTML = `
         <link rel="stylesheet" href="./src/components/customMessage/customMessage.css">
         <p>${this.message || 'Hello, world'}</p>
+        <img src="${this.img}" />
         `;
     }
 }

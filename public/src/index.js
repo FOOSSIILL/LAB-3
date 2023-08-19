@@ -12,8 +12,9 @@ class AppContainer extends HTMLElement {
 
   render() {
     this.shadowRoot.innerHTML = `
-    <custom-message message="Lectormanga"></custom-message>
-    <link rel="stylesheet" href="https://lectormanga.com/library/manga/79077/boruto-two-blue-vortex">
+    <link rel="stylesheet" href="https://otakuteca.com/images/books/cover/64df40023b028.jpg">
+    <custom-message message="Lectormanga" img="https://otakuteca.com/images/books/cover/64df40023b028.jpg"></custom-message>
+    
     <my-counter></my-counter>
     `;
   }
