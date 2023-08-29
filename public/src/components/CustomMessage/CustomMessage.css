@@ -1,8 +1,14 @@
 p{
-    color: blueviolet;
-    font-size: 100px;
-    font-weight: 300;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    color: rgb(0, 0, 0);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    height: 5px;
+    
+}
+
+img {
+height: 200px;
 }
 
 

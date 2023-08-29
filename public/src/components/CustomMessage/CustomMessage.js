@@ -20,9 +20,9 @@ class CustomMessage extends HTMLElement {
 
     render(){
         this.shadowRoot.innerHTML = `
-        <link rel="stylesheet" href="./src/components/customMessage/customMessage.css">
+        <link rel="stylesheet" href="./src/components/CustomMessage/CustomMessage.css">
         <p>${this.message || 'Hello, world'}</p>
-        <img src="${this.img}" />
+        <img src="${this.img || ''}"/>
         `;
     }
 }
