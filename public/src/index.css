@@ -14,4 +14,20 @@
 
 }
 
+.sevenSection {
+    display: flex;
+    font-display: row;
+
+}
+
+.fiveSection {
+    display: flex;
+    font-display: row;
+}
+
+.eightSection {
+    display: flex;
+    font-display: row;
+}
+
 
