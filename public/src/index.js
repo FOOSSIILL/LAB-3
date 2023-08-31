@@ -48,7 +48,7 @@ class AppContainer extends HTMLElement {
     <custom-message message="Mi Esclava Sexual Necesita Ser Arreglada" img="https://otakuteca.com/images/books/cover/64af94dac7e7b.jpg"></custom-message>
     <custom-message message="Me desperté pilotando la nave espacial más poderosa, así que me hice mercenario espacial" img="https://otakuteca.com/images/books/cover/642b74e7a3b47.jpg"></custom-message>
     </section>
-    <section class ="eight">
+    <section class ="eightSection">
     <custom-message message="Tensei Majou no Yuusha Gakuen Musou" img="https://otakuteca.com/images/books/cover/64e2f9e14012b.jpg"></custom-message>
     <custom-message message="Mugen no Skill Getter" img="https://otakuteca.com/images/books/cover/61a3c9b994024.jpg"></custom-message>
     <custom-message message="Sachiko, la estudiante de primer año que intentó ingresar durante 15 años a la universidad." img="https://otakuteca.com/images/books/cover/64e34b3730490.jpg"></custom-message>
