@@ -1,17 +1,30 @@
-.FirstSection{
+.Section{
     background-color: rgb(27, 54, 177);
+}
+
+.twoSection{
+    display: flex;
+    font-display: row;  
 }
 
 .thirdSection{
     display: flex;
     font-display: row;
+}
 
+.FourSection{
+    display: flex;
+    font-display: row;
+}
+
+.FiveSection {
+    display: flex;
+    font-display: row;
 }
 
 .sixSection{
     display: flex;
     font-display: row;
-
 }
 
 .sevenSection {
@@ -20,14 +33,77 @@
 
 }
 
-.fiveSection {
-    display: flex;
-    font-display: row;
-}
-
 .eightSection {
     display: flex;
     font-display: row;
 }
 
+.nineSection{
+    display:flex;
+    font-display: row;
+}
 
+.tenSection{
+    display:flex;
+    font-display: row;
+}
+
+.elevenSection{
+    display:flex;
+    font-display: row;
+}
+
+.twelveSection{
+    display:flex;
+    font-display: row;
+}
+
+.thriteenSection{
+    display:flex;
+    font-display: row;   
+}
+
+.fourteenSection{
+    display:flex;
+    font-display: row;  
+}
+
+.sixteenSection{
+    display:flex;
+    font-display: row;  
+}
+
+.seventeenSection{
+    display:flex;
+    font-display: row;  
+}
+
+.eighteenSection{
+    display:flex;
+    font-display: row; 
+}
+
+.nineteenSection{
+    display:flex;
+    font-display: row;
+}
+
+.twentySection{
+    display:flex;
+    font-display: row;
+}
+
+.twentyoneSection{
+    display:flex;
+    font-display: row;
+}
+
+.twentytwoSection{
+    display:flex;
+    font-display: row;
+}
+
+.twentythirdSection{
+    display:flex;
+    font-display: row;
+}
