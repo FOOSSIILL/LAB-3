@@ -22,8 +22,7 @@ class AppContainer extends HTMLElement {
     </section>
     <section class="thirdSection">
     <custom-message message="Perdidos en la nube" img="https://otakuteca.com/images/books/cover/616f1dbebe7d1.jpg"></custom-message>
-    <custom-message message="Konbini Goto Kara Tasuketa Jimi Tenin ga, <br>
-    Onaji Kurasu no Ubude Kawaii Gyarudatta"img="https://otakuteca.com/images/books/cover/6462f67ac43f9.jpg"></custom-message>
+    <custom-message message="Konbini Goto Kara Tasuketa Jimi Tenin gaonaji Kurasu no Ubude Kawaii Gyarudatta"img="https://otakuteca.com/images/books/cover/6462f67ac43f9.jpg"></custom-message>
     <custom-message message="Obtuve un Objeto Mítico" img="https://otakuteca.com/images/books/cover/62a5fef76c721.jpg"></custom-message>
     <custom-message message="Magenai Kan Dashi Terukedo Zenzen Chokkaku ni Magaru Onna" img="https://otakuteca.com/images/books/cover/62890a2e48c4a.jpg"></custom-message> 
     </section>
